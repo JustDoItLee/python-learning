@@ -38,3 +38,6 @@ for i in c:
     print(i)
 
 print(n)
+
+n = n + 1
+print(n)
